@@ -1,6 +1,11 @@
 {
 	"version": 1,
 	"flameworkVersion": "1.2.3",
-	"identifiers": {},
+	"identifiers": {
+		"flameworktemplate:out/client/components/component.client@ClientComponent": "client/components/component.client@ClientComponent",
+		"flameworktemplate:out/client/controllers/controller@MyController": "client/controllers/controller@MyController",
+		"flameworktemplate:out/server/components/component.server@ServerComponent": "server/components/component.server@ServerComponent",
+		"flameworktemplate:out/server/services/service@MyService": "server/services/service@MyService"
+	},
 	"metadata": {}
 }
